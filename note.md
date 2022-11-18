@@ -11,3 +11,9 @@
 # step command
 ### pip install django==1.11.5
 ### pip install djangorestframework==3.6.4
+
+
+# Create project
+### django-admin startproject restful01 .
+# Create feature
+### python manage.py startapp toys
