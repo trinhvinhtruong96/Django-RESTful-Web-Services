@@ -17,3 +17,8 @@
 ### django-admin startproject restful01 .
 # Create feature
 ### python manage.py startapp toys
+
+# migration
+## python manage.py makemigrations toys
+## python manage.py migrate
+
