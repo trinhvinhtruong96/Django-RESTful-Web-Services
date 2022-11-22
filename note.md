@@ -19,6 +19,10 @@
 ### python manage.py startapp toys
 
 # migration
-## python manage.py makemigrations toys
-## python manage.py migrate
+### python manage.py makemigrations toys
+### python manage.py migrate
+
+# open shell
+### python manage.py shell
+
 
